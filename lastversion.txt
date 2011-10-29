@@ -1,0 +1,11 @@
+# Version information for MPExtended update checker
+#
+# Format of this file:
+# - Lines starting with a # are comments
+# - Each line is one version
+# - Format of a line is <build version> <version name> <release date in YYYY-MM-DD format>
+# - Last version should be on top
+#
+# Note: only publish stable versions here, as it is used by the update checker that
+# runs on systems of users.
+0.3.99.0 0.4.0-dev 2011-08-02
