@@ -8,10 +8,11 @@
 #
 # Note: only publish stable versions here, as it is used by the update checker that
 # runs on systems of users.
-0.4.2.0 0.4.2 2012-01-24
+0.4.3.0 0.4.3 2012-03-27
 #
 # Comment these out as the update checker in 0.4.1 and earlier sorts versions in the wrong order. Enable
 # them again with 0.6 or so, as most people should've migrated away from 0.4 by that time.
+#0.4.2.0 0.4.2 2012-01-24
 #0.4.1.0 0.4.1 2011-12-30
 #0.4.0.0 0.4.0 2011-12-24
 #0.3.99.0 0.4.0-dev 2011-08-02
