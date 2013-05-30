@@ -31,6 +31,13 @@ h3 {
    font-size: 1.5em; 
 }
 
+a.fork img {
+   position: absolute; 
+   top: 0; 
+   right: 0; 
+   border: 0;
+}
+
 /** index.html **/
 .header img {
    float: left;
