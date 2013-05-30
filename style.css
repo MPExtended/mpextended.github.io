@@ -1,7 +1,7 @@
 body {
    margin-top: 1.0em;
    background-color: #FBF9EF;
-   font-family: Helvetica, Arial, FreeSans, san-serif;
+   font-family: Helvetica, Arial, FreeSans, sans-serif;
    color: #000000;
 }
 
@@ -10,12 +10,31 @@ body {
    width: 700px;
 }
 
-h1, h2, h3, a { color: #F6855E; }
-h1 { font-size: 3.8em; margin-bottom: 3px; }
-h1 .small { font-size: 0.4em; }
-h1 a { text-decoration: none }
-h2 { font-size: 2em; }
-h3 { font-size: 1.5em; }
-.description { font-size: 1.2em; margin-bottom: 30px; margin-top: 30px; font-style: italic;}
-.download { float: right; }
-.preinline { font-family: Courier; }
+h1, h2, h3, a { 
+   color: #F6855E; 
+}
+
+h1 { 
+   font-size: 3.8em; 
+   margin-bottom: 3px; 
+}
+
+h1 a { 
+   text-decoration: none 
+}
+
+h2 { 
+   font-size: 2em; 
+}
+
+h3 { 
+   font-size: 1.5em; 
+}
+
+/** index.html **/
+.description { 
+   font-size: 1.2em; 
+   margin-bottom: 30px; 
+   margin-top: 30px; 
+   font-style: italic;
+}
