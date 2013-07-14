@@ -9,6 +9,7 @@
 # Note: only publish stable versions here, as it is used by the update checker that
 # runs on systems of users.
 #
+0.5.4.0 0.5.4 2013-07-14
 0.5.3.0 0.5.3 2013-02-03
 0.5.2.0 0.5.2 2013-01-09
 0.5.1.0 0.5.1 2012-12-03
