@@ -9,6 +9,7 @@
 # Note: only publish stable versions here, as it is used by the update checker that
 # runs on systems of users.
 #
+0.7.15.0 0.7.15-x64 2025-07-21
 0.7.13.0 0.7.13-x64 2024-10-24
 0.7.7.0 0.7.7-x64 2024-01-30
 0.7.5.0 0.7.5 2024-01-17
